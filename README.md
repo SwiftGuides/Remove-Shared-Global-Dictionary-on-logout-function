@@ -1,6 +1,8 @@
 # Remove-Shared-Global-Dictionary-on-logout-function
 This is the guide to remove values or making them nil when user logout from his account.
 
+Source :- https://stackoverflow.com/a/56052841/10422074
+
 * Assume This is the Global Shared Dict in which we are saving the login Values 
 
 ```swift
